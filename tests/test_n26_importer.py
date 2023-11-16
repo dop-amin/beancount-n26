@@ -40,7 +40,6 @@ def importer(language):
         IBAN_NUMBER,
         'Assets:N26',
         language=language,
-        exchange_fees_account='Expenses:TransferWise',
     )
 
 
